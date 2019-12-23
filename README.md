@@ -2,11 +2,11 @@
 
 The vision for the Power Platform started from the recognition that data is increasingly flowing from everything, and a belief that organizations that harness their data – to gain insights then used to drive intelligent business processes – will outperform those that don’t.
 </br>
-</br><img src="./Pictures/pp0_0.png" width="600">
+</br><img src="./Pictures/pp0_0.PNG" width="600">
 </br>
 </br>
 The Power Platform enables power users with an integrated and cohesive low-code toolset
-</br><img src="./Pictures/pp0_1.png" width="600">
+</br><img src="./Pictures/pp0_1.PNG" width="600">
 </br>
 </br>
 * **Power Apps:** a low-code approach to building apps
