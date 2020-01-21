@@ -51,7 +51,8 @@ The Power Platform enables power users with an integrated and cohesive low-code 
         * **Text classification:** tag and categorize survey data, notes to extract patterns and insights
 
 </br>
-</br>  
+</br>
+
 ## Situation
 
 During networking events, I would like to be able to take a picture of a business card to automatically create a contact in Outlook. I would then like to have a Power BI dashboard to visualize how many new connections I’ve made by month.
